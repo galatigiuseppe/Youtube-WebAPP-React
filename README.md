@@ -1,7 +1,7 @@
 # Youtube-WebAPP-React
 A basic Youtube player built with React
 
-Inline-style: 
+
 ![alt text](https://github.com/galatigiuseppe/Youtube-WebAPP-React/blob/master/scr.png "ScreenShot")
 ![alt text](https://github.com/galatigiuseppe/Youtube-WebAPP-React/blob/master/scr1.png "ScreenShot")
 
