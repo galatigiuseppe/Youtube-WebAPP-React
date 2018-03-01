@@ -1,6 +1,13 @@
 # Youtube-WebAPP-React
 A basic Youtube player built with React
 
+Inline-style: 
+![alt text](https://github.com/galatigiuseppe/Youtube-WebAPP-React/scr.png "ScreenShot")
+![alt text](https://github.com/galatigiuseppe/Youtube-WebAPP-React/scr.png "ScreenShot")
+
+
+
+
 Things learned/practiced: **React**, **ES6**
 
 ##Setup
